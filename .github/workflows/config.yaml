@@ -1,0 +1,5 @@
+validator_address: "0xYourValidatorAddress"
+rpc_endpoint: "https://rpc.polygon.technology"
+telegram:
+  bot_token: "your-telegram-bot-token"
+  chat_id: "your-chat-id"
