@@ -1,0 +1,9 @@
+{
+    "validatorAddress": "0xYourValidatorAddress",
+    "rpcEndpoint": "https://your-rpc-endpoint",
+    "telegram": {
+      "botToken": "your-telegram-bot-token",
+      "chatId": "your-chat-id"
+    }
+  }
+  
